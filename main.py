@@ -4,7 +4,6 @@ import traceback
 import tensorflow as tf
 
 import numpy as np
-
 from fastapi import FastAPI, Response, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 import mysql.connector
