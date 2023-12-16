@@ -6,3 +6,4 @@ numpy
 Pillow
 tensorflow
 mysql-connector-python
+gunicorn
